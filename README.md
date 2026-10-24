@@ -1,0 +1,2 @@
+# DATA-ANALYTICS-HACKATHON--VoltRelay-Energy-Analytics
+Data-driven operational analytics of VoltRelay Energy’s EV battery-swapping network across six Indian cities. Investigates service failures, battery state of health (SOH), supplier-level performance, customer experience, new-rider drop-off indicators, fleet pricing, and unit-economics risks to develop evidence-based operational recommendations.
